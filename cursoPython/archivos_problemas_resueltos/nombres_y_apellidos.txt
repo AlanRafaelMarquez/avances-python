@@ -1,0 +1,17 @@
+Los datos son:
+
+ Nombre: Alan
+Apellido: Marquez
+--------------------
+Nombre: Alejandro
+Apellido: Hurtado
+--------------------
+Nombre: Carlos
+Apellido: Jimenez
+--------------------
+Nombre: Gael
+Apellido: Fernandez
+--------------------
+Nombre: Oziel
+Apellido: Aleman
+--------------------

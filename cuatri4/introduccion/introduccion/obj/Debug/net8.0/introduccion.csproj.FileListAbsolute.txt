@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\bin\Debug\net8.0\introduccion.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\bin\Debug\net8.0\introduccion.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\bin\Debug\net8.0\introduccion.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\bin\Debug\net8.0\introduccion.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\bin\Debug\net8.0\introduccion.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\refint\introduccion.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\introduccion.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\introduccion\introduccion\obj\Debug\net8.0\ref\introduccion.dll

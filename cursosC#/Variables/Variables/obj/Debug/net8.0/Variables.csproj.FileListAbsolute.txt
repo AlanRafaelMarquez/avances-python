@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Variables\Variables\obj\Debug\net8.0\ref\Variables.dll

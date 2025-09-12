@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\bin\Debug\net8.0\Cailificaciones.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\bin\Debug\net8.0\Cailificaciones.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\bin\Debug\net8.0\Cailificaciones.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\bin\Debug\net8.0\Cailificaciones.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\bin\Debug\net8.0\Cailificaciones.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\refint\Cailificaciones.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\Cailificaciones.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\Cailificaciones\Cailificaciones\obj\Debug\net8.0\ref\Cailificaciones.dll

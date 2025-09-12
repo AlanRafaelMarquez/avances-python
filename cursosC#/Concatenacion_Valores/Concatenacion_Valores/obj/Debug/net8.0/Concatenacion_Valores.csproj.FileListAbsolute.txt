@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\bin\Debug\net8.0\Concatenacion_Valores.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\bin\Debug\net8.0\Concatenacion_Valores.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\bin\Debug\net8.0\Concatenacion_Valores.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\bin\Debug\net8.0\Concatenacion_Valores.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\bin\Debug\net8.0\Concatenacion_Valores.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\refint\Concatenacion_Valores.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\Concatenacion_Valores.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Concatenacion_Valores\Concatenacion_Valores\obj\Debug\net8.0\ref\Concatenacion_Valores.dll

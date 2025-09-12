@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\bin\Debug\net8.0\Aplicacion1.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\bin\Debug\net8.0\Aplicacion1.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\bin\Debug\net8.0\Aplicacion1.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\bin\Debug\net8.0\Aplicacion1.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\bin\Debug\net8.0\Aplicacion1.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\refint\Aplicacion1.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\Aplicacion1.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Aplicacion1\Aplicacion1\obj\Debug\net8.0\ref\Aplicacion1.dll

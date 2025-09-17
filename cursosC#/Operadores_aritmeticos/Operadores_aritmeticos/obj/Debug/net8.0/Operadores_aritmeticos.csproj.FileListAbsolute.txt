@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\refint\Operadores_aritmeticos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\ref\Operadores_aritmeticos.dll

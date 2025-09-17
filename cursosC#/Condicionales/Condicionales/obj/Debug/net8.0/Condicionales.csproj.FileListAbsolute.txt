@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\bin\Debug\net8.0\Condicionales.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\refint\Condicionales.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\Condicionales.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Condicionales\Condicionales\obj\Debug\net8.0\ref\Condicionales.dll

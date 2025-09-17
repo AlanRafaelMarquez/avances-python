@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alanr\\OneDrive\\Desktop\\todoPython\\cursosC#\\Operadores_logicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEBBAC8-9EB5-4E96-BB64-BBF45C04B7FE}|Operadores_logicos\\Operadores_logicos.csproj|c:\\users\\alanr\\onedrive\\desktop\\todopython\\cursosc#\\operadores_logicos\\operadores_logicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEBBAC8-9EB5-4E96-BB64-BBF45C04B7FE}|Operadores_logicos\\Operadores_logicos.csproj|solutionrelative:operadores_logicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alanr\\OneDrive\\Desktop\\todoPython\\cursosC#\\Operadores_logicos\\Operadores_logicos\\Program.cs",
+              "RelativeDocumentMoniker": "Operadores_logicos\\Program.cs",
+              "ToolTip": "C:\\Users\\alanr\\OneDrive\\Desktop\\todoPython\\cursosC#\\Operadores_logicos\\Operadores_logicos\\Program.cs",
+              "RelativeToolTip": "Operadores_logicos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:26:08.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

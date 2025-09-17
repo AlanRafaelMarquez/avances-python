@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\bin\Debug\net8.0\Entrada_de_datos.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\bin\Debug\net8.0\Entrada_de_datos.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\bin\Debug\net8.0\Entrada_de_datos.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\bin\Debug\net8.0\Entrada_de_datos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\bin\Debug\net8.0\Entrada_de_datos.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\refint\Entrada_de_datos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\Entrada_de_datos.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Entrada_de_datos\Entrada_de_datos\obj\Debug\net8.0\ref\Entrada_de_datos.dll

@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\bin\Debug\net8.0\Operadores_comparacion.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\bin\Debug\net8.0\Operadores_comparacion.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\bin\Debug\net8.0\Operadores_comparacion.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\bin\Debug\net8.0\Operadores_comparacion.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\bin\Debug\net8.0\Operadores_comparacion.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\refint\Operadores_comparacion.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\Operadores_comparacion.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_comparacion\Operadores_comparacion\obj\Debug\net8.0\ref\Operadores_comparacion.dll

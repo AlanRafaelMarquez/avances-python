@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\refint\Operadores_logicos.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\ref\Operadores_logicos.dll
